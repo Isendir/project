@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2493084859">
+    <data-source source="LOCAL" name="SQLite - app.db" uuid="63825510-b23e-4c09-abbb-42f58e69edd4">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/app.db</jdbc-url>
+      <schema-pattern>*</schema-pattern>
+      <driver-properties>
+        <property name="foreign_keys" value="ON" />
+      </driver-properties>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
